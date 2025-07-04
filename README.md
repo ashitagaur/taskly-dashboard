@@ -17,13 +17,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard | My Tasks |
-|----------|----------|
-| ![Dashboard](./assets/dashboard.png) | ![Tasks](./assets/mytasks.png) |
----
-
 ## 🛠 Tech Stack
 
 - ⚛️ React + TypeScript
