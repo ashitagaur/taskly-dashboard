@@ -18,7 +18,7 @@
 ---
 ## 🎥 Live Demo
 
-👉 [Deployed on Vercel](https://taskly-dashboard.vercel.app)
+👉 [Deployed on Vercel](https://taskly-dashboard-m95e.vercel.app/tasks)
 
 🎬 Video Walkthrough:
 
