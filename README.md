@@ -77,7 +77,7 @@ npm install
 npm run dev
 ```
 
-Then visit: [http://localhost:5173](http://localhost:5173)
+Then visit: [http://localhost:5173/dashboard](http://localhost:5173/dashboard)
 
 ---
 
