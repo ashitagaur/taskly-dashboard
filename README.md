@@ -16,7 +16,25 @@
 - 📱 Fully responsive UI (mobile → desktop)
 
 ---
+## 🎥 Live Demo
 
+👉 [Deployed on Vercel](https://taskly-dashboard.vercel.app)
+
+🎬 Video Walkthrough:
+
+[![Watch the demo](https://img.shields.io/badge/🎥%20Watch%20Demo-%23FF0066?style=for-the-badge)](./demo.mov)
+
+---
+
+## 🖼️ Screenshots
+
+### 🧠 Dashboard View
+![Dashboard Screenshot](./dashboard.png)
+
+### ✅ Task List View
+![Tasks Screenshot](./tasks.png)
+
+---
 ## 🛠 Tech Stack
 
 - ⚛️ React + TypeScript
