@@ -22,9 +22,6 @@
 | Dashboard | My Tasks |
 |----------|----------|
 | ![Dashboard](./assets/dashboard.png) | ![Tasks](./assets/mytasks.png) |
-
-> *(Replace with your own screenshots if needed)*
-
 ---
 
 ## 🛠 Tech Stack
