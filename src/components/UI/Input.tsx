@@ -5,7 +5,7 @@ const Input = forwardRef<
 >(({ className = "", ...rest }, ref) => (
   <input
     ref={ref}
-    className={`bg-black border border-gray-600 rounded px-3 py-2 w-full focus:outline-none text-white ${className}`}
+    className={`border border-gray-300 rounded-md p-2 w-full focus:outline-none focus:ring-2 focus:ring-blue-500 ${className}`}
     {...rest}
   />
 ));

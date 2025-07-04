@@ -1,7 +1,7 @@
-import React, { createContext, useContext, useReducer, useEffect } from "react";
+import { createContext, useContext, useReducer, useEffect } from "react";
 import { Task } from "../types/task";
 import { taskReducer, Action } from "../reducers/taskReducer";
-import { load, save } from "../utils/storage";
+import { load, save } from "../utils/localStorage";
 
 interface Ctx {
   tasks: Task[];
